@@ -213,7 +213,11 @@ print(p_head)
 第 $t$ 回合的增減額：
 
 $$
-X_t=\begin{cases}+1,&\text{機率 }0.5,\\-1,&\text{機率 }0.5.\end{cases}
+X_t =
+\begin{cases}
++1, & \text{機率 } 0.5, \\
+-1, & \text{機率 } 0.5.
+\end{cases}
 $$
 
 第 $t$ 回合結束的累積損益：
