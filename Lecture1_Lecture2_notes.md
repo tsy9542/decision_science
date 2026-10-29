@@ -258,7 +258,7 @@ print("曾經超過 10 元的機率：", np.mean(max_profit > 10))
 令 $H$ 是 50 次中的正面次數。在固定次數、獨立、公平硬幣條件下：
 
 $$
-H\sim\operatorname{Binomial}(50,0.5),\qquad C_{50}=H-(50-H)=2H-50.
+H \sim \mathrm{Binomial}(50, 0.5), \quad C_{50} = H - (50 - H) = 2H - 50.
 $$
 
 因此打平等價於 $H=25$：
