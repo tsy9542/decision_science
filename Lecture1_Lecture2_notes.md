@@ -408,7 +408,7 @@ $$
 期望貨幣價值（expected monetary value, EMV）：
 
 $$
-\operatorname{EMV}=\sum_i p_i v_i.
+\mathrm{EMV}=\sum_i p_i v_i.
 $$
 
 - $p_i$：結果 $i$ 發生的機率；$v_i$：對應淨報酬。
