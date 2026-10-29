@@ -87,7 +87,8 @@
 
 $$
 I_s=\mathbf1\{E\text{ 在第 }s\text{ 次模擬發生}\}
-=\begin{cases}1,&\text{事件發生},\\0,&\text{事件沒有發生}.\end{cases}
+=\begin{cases}1,&\text{事件發生},\\
+0,&\text{事件沒有發生}.\end{cases}
 $$
 
 事件機率的模擬估計：
